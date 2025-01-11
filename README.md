@@ -1,2 +1,2 @@
 # bookbot
-boot.dev Python practice project
+BookBot is my first project!
